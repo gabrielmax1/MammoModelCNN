@@ -15,3 +15,6 @@ CBIS-DDSM dataset for:
   - Transfer learning over both of the previous tasks using VGG16;
  
  
+Dataset availability:
+MIAS: https://www.kaggle.com/datasets/kmader/mias-mammography
+CBIS-DDSM: https://www.kaggle.com/datasets/gabrielecotigliani/cbis-ddsmpatched/settings
