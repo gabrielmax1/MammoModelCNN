@@ -16,5 +16,5 @@ CBIS-DDSM dataset for:
  
  
 Dataset availability:
-MIAS: https://www.kaggle.com/datasets/kmader/mias-mammography
-CBIS-DDSM: https://www.kaggle.com/datasets/gabrielecotigliani/cbis-ddsmpatched/settings
+- MIAS: https://www.kaggle.com/datasets/kmader/mias-mammography
+- CBIS-DDSM: https://www.kaggle.com/datasets/gabrielecotigliani/cbis-ddsmpatched/settings
